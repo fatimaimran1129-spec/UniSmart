@@ -1,0 +1,31 @@
+text,label
+The class timetable keeps changing,Academic
+The teacher does not take lectures on time,Academic
+There is a mistake in my marks please recheck the result,Academic
+The syllabus is being covered too fast,Academic
+The exam results were announced very late,Academic
+There is no water in the hostel,Hostel
+My hostel room is very dirty,Hostel
+The mess food is very bad,Hostel
+The electricity goes off every night in the hostel,Hostel
+The hostel water heater is not working,Hostel
+The university bus is never on time,Transport
+The bus is extremely crowded,Transport
+Please change the bus route,Transport
+The bus driver drives too fast,Transport
+There is no bus for the evening shift,Transport
+Books are not available in the library,Library
+The library timings should be extended,Library
+The library is too noisy to study,Library
+We need new books for this course,Library
+The library study area has no empty seats,Library
+There is a mistake in my fee voucher,Fee
+Please extend the fee submission date,Fee
+My scholarship amount has not arrived yet,Fee
+My fee was deducted twice,Fee
+I need an installment plan for the fee,Fee
+The WiFi is very slow,IT
+The lab computers are broken,IT
+I cannot log in to the student portal,IT
+The projector in the classroom is not working,IT
+The university email is not working,IT
